@@ -1,0 +1,11 @@
+{
+  "name": "immortal_sniper1_PY_pack2",
+  "title": "Py medium difficulty  pack",
+  "version": "0.0.0",
+  "factorio_version":"0.18",
+  "author": "immortal_sniper1",
+  "dependencies": ["base >= 0.18.0","?electric_water_boiler","?Bottleneck","?FNEI",  "?helmod","pycoalprocessing", "pycoalprocessinggraphics", "pyfusionenergy", "pyfusionenergygraphics","pyindustry", "pypetroleumhandling", "pypetroleumhandlinggraphics", "pyrawores", "pyraworesgraphics","stdlib"], 
+  "contact": "https://github.com/immortal-sniper1/py-power-calculator",
+  "homepage": "N/A",
+  "description": "A pack that contains Py mods for beginners or those that moderat chalendge."
+}
